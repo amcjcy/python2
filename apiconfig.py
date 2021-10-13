@@ -23,7 +23,7 @@ MUDB_FILE = "mudb.json"
 MYSQL_HOST = "127.0.0.1"
 MYSQL_PORT = 3306
 MYSQL_USER = "root"
-MYSQL_PASS = "ss"
+MYSQL_PASS = "password"
 MYSQL_DB = "sspanel"
 
 MYSQL_SSL_ENABLE = 0
